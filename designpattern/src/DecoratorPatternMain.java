@@ -1,11 +1,8 @@
 import com.org.decorator.Beverage;
 import com.org.decorator.impl.DarkRoast;
 import com.org.decorator.impl.Espresso;
-import com.org.decorator.impl.Mocha;
-import com.org.decorator.impl.Whip;
-
-import java.math.BigDecimal;
-import java.math.MathContext;
+import com.org.decorator.impl.addons.Mocha;
+import com.org.decorator.impl.addons.Whip;
 
 public class DecoratorPatternMain {
 

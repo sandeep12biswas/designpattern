@@ -1,4 +1,4 @@
-package com.org.decorator.impl;
+package com.org.decorator.impl.addons;
 
 import com.org.decorator.Beverage;
 import com.org.decorator.CondimentDecorator;
